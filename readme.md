@@ -10,6 +10,9 @@
 **< 목표 디자인 >**
 ![refer_img](assets/refer_img.png)
 
+**<원래 디자인>**
+![ori_img](assets/original.png)
+
 **<Keyward>**
 
 - QGroupBox()
