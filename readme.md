@@ -10,6 +10,11 @@
 **< 목표 디자인 >**
 ![refer_img](assets/refer_img.png)
 
+**<Keyward>**
+
+- QGroupBox()
+- set
+
 **추가 기능**
 
 - 블럭 화면 터치시 그래프 화면으로 전환
