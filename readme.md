@@ -7,8 +7,8 @@
 기관 : 성균관대학교 지능시스템연구소 [ISRI]
 마음가짐 : 짧고 굷게
 
-**< 목표 디자인 >**
-![refer_img](assets/refer_img.png)
+**< 목표 디자인 >**  
+![refer_img](assets/descr.png)
 
 **<원래 디자인>**
 ![ori_img](assets/original.png)
