@@ -35,8 +35,6 @@
    g) 홈 화면 바로 가기 키
 9. 저장 아이콘: 현재 환자에 대한 현재 측정 데이터를 저장하려면 누릅니다.
 
-cf) https://ko.manuals.plus/suntech/vital-signs-monitor-ct50-manual#axzz7Yz0HgOkY
-
 Read more: https://ko.manuals.plus/suntech/vital-signs-monitor-ct50-manual#ixzz7Yz1OyvB9
 
 **<원래 디자인>**
@@ -52,6 +50,7 @@ Read more: https://ko.manuals.plus/suntech/vital-signs-monitor-ct50-manual#ixzz7
 - 블럭 색상 [참고: https://m.blog.naver.com/hellonami/30189427178]
 - 이미지 삽입
 - 절대적 배치 -> 박스 레이아웃으로 변경
+- sign이 정상범위를 벗어났을 경우 블럭 색상 변화
 
 **추가 기능**
 
