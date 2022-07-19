@@ -53,6 +53,7 @@ Read more: https://ko.manuals.plus/suntech/vital-signs-monitor-ct50-manual#ixzz7
 - 절대적 배치 -> 박스 레이아웃으로 변경
 - 창 크기 최대화 - [X]
 - 타이틀 바 제거 - [X]
+- 키 입력받아 창 크기 변경 및 창 닫기(f,n,esc) - [X]
 
 **추가 기능**
 
