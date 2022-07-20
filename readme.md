@@ -50,7 +50,7 @@ Read more: https://ko.manuals.plus/suntech/vital-signs-monitor-ct50-manual#ixzz7
 - 블럭 색상 [참고: https://m.blog.naver.com/hellonami/30189427178] - [X]
 - 이미지 삽입 - [X]
 - sign이 정상범위를 벗어났을 경우 블럭 색상 변화 - [X]
-- 절대적 배치 -> 박스 레이아웃으로 변경
+- 절대적 배치 -> 박스 레이아웃으로 변경 - [X]
 - 창 크기 최대화 - [X]
 - 타이틀 바 제거 - [X]
 - 키 입력받아 창 크기 변경 및 창 닫기(f,n,esc) - [X]
